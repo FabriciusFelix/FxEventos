@@ -20,6 +20,5 @@ namespace ProEventos.API.Models
 
 
 
-
     }
 }
