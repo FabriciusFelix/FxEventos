@@ -8,7 +8,7 @@ namespace ProEventos.API.Models
         
         public string Local { get; set; }  
 
-        public DateTime  DataEvento { get; set; }
+        public string  DataEvento{ get; set; }
 
         public string Tema { get; set; }
 
